@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Welcome to my portfolio website! Here I record and share some of my past experiences in the field of localization. With over 16 years of professional experience, I have worked across various tools and platforms, refining my skills in managing localization projects effectively. 
 
 [Link to another page](./another-page.html).
 
@@ -10,9 +10,9 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# About Me
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I'm Melody, a seasoned localization expert with a rich background in managing multilingual content and ensuring high-quality project delivery. 
 
 ## Header 2
 
