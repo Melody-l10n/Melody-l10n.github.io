@@ -6,7 +6,11 @@ Welcome to my portfolio website! Here I record and share some of my past experie
 
 # About Me
 
-I'm Melody, a seasoned localization expert with a rich background in managing multilingual content and ensuring high-quality project delivery. Listed are my skills:
+I'm Melody, a seasoned localization expert with a rich background in managing multilingual content and ensuring high-quality project delivery. 
+
+# Why here
+
+I decided to create a personal website due to the company's geographical strategic adjustments this year, which led to the optimization of our entire team. During my job hunting, I realized that a resume alone doesn't fully capture the work I’ve done over the years. Through this process, I also discovered that creating a website could help document my experiences more effectively and perhaps provide valuable insights for others.
 
 # Skills
 - **Languages:** [English] to [Simplified-Chinese] and  [Simplified-Chinese] to [English]
