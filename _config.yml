@@ -1,5 +1,5 @@
 title: Voyage with Melody  
 description: Come aboard and let's navigate this exciting world together!
-show_downloads: true
+show_downloads: False
 google_analytics:
 theme: jekyll-theme-cayman
