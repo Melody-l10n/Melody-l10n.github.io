@@ -6,3 +6,4 @@ This is the **Career Paths in Language Services** graphic created by Adam Wooten
 
 To access the chart, visit the link for further insights into the various career paths available in the language services industry.
 
+[back](./)
