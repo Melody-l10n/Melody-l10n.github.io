@@ -1,12 +1,9 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Common File Formats Supported by Translation Management Systems
+description: This page lists file formats commonly supported by all main Translation Managment Systems in the industry.
 ---
 
-## Below are the file formats commonly supported by all main Translation Managment Systems in the industry.
-
-# Common File Formats Supported by Translation Management Systems
 
 ## 1. **RESX** 
    Resource file format used for localizing .NET applications. It stores strings and other resources, such as images or icons, in XML format.
