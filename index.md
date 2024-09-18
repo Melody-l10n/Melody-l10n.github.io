@@ -22,6 +22,8 @@ I decided to create a personal website due to the company's geographical strateg
 - **Project Management:** Time management, client communication, quality assurance
 - **Skills:** JIRA/Perforce/Github/Trello/Notion, Microsoft 365/Adobe FrameMaker/Illustrator/Power BI, Wiki/Markdown/CSS, Phrase/Trados/DITA CMS
 
+## Thoughts and sharings
+
 [Career Paths in Language Services](./Career%20Paths%20in%20Language%20Services.md)
 
 
@@ -31,7 +33,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-## Header 2
+
 
 > This is a blockquote following a header.
 >
