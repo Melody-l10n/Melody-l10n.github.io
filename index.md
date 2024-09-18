@@ -22,7 +22,7 @@ I decided to create a personal website due to the company's geographical strateg
 - **Project Management:** Time management, client communication, quality assurance
 - **Skills:** JIRA/Perforce/Github/Trello/Notion, Microsoft 365/Adobe FrameMaker/Illustrator/Power BI, Wiki/Markdown/CSS, Phrase/Trados/DITA CMS
 
-[Career Paths In Language Services](./Career Paths In Language Services.html)
+[Career Paths in Language Services](./Career Paths in Language Services.html)
 
 [Software localization format](./Software localization format.html)
 
