@@ -29,28 +29,9 @@ I decided to create a personal website due to the company's geographical strateg
 
 [Software localization format](./Software localization format.html)
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[Figma UI App](https://www.figma.com/design/IZO2yokRw5D0N8ca6mIfZt/Weather-bird?node-id=0-1&t=WpQTvkX9tWfEkE9c-1)
 
 
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
