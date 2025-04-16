@@ -24,8 +24,7 @@ I decided to create a personal website due to the company's geographical strateg
 
 ## Thoughts and sharings
 
-[Career Paths in Language Services](./Career%20Paths%20in%20Language%20Services.md)
-
+[Career Paths in Language Services](./Career Paths in Language Services.md)
 
 [Software localization format](./Software localization format.html)
 
