@@ -29,6 +29,7 @@ I decided to create a personal website due to the company's geographical strateg
 [Software localization format](./Software localization format.html)
 
 [Sample work of Figma UI App](https://www.figma.com/design/IZO2yokRw5D0N8ca6mIfZt/Weather-bird?node-id=0-1&t=WpQTvkX9tWfEkE9c-1)
+
 [🎨 LQA 文本重构实验室](./LQA_LAB.html)
 
 © 2024 [Melody](https://melody-l10n.github.io/). All rights reserved.
