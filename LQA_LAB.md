@@ -15,7 +15,7 @@ description: "用质量管理的严苛标准，解构并重构被机械翻译阉
 
 ---
 
-### 📊 质量对比看板
+### 📊 翻译对比看板
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
   <div style="border-left: 4px solid #ff4d4f; padding-left: 15px;">
